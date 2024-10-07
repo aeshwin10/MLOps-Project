@@ -1,5 +1,5 @@
 import os
-from datatime import data
+from datetime import date
 
 DATABASE_NAME = "US_VISA"
 COLLECTION_NAME = "visa_data"

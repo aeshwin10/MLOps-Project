@@ -1,0 +1,3 @@
+[ 2024-10-07 23:04:21,960 ] root - INFO - Logging setup is complete.
+[ 2024-10-07 23:04:22,997 ] root - INFO - Entered the start_data_ingestion method of TrainPipeline class
+[ 2024-10-07 23:04:22,998 ] root - INFO - Getting the data from mongodb
